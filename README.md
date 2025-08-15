@@ -1,4 +1,4 @@
-# Electricity Price Forecasting
+# Electricity Price Forecasting - Predictive Analytics/Forecasting Final
 
 A comprehensive evaluation of traditional, machine learning, and deep learning approaches for forecasting U.S. electricity prices with rigorous temporal validation.
 
