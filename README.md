@@ -15,7 +15,7 @@ This project analyzes 47 years of U.S. monthly electricity price data (1978-2025
 - Feature engineering outperformed complex deep learning approaches
 
 ## Files
-- `electricity_forecasting.R` - Main analysis script
+- `final_code.R` - Main analysis script
 - `APU000072610.xlsx` - U.S. electricity price data (Bureau of Labor Statistics)
 
 ## Requirements
@@ -24,7 +24,7 @@ This project analyzes 47 years of U.S. monthly electricity price data (1978-2025
 
 ## Usage
 1. Install required packages
-2. Run `electricity_forecasting.R`
+2. Run `final_code.R`
 
 ## Data Source
 Bureau of Labor Statistics - Average Price of Electricity to Ultimate Customers by End-Use Sector
